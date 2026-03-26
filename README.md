@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
 [![Email](https://img.shields.io/badge/Gmail-tarunreddy2811@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=KakashiShiren&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/KakashiShiren)
 
 > Open to full-time & internship roles · Willing to relocate · Open to visa sponsorship
 
@@ -13,7 +12,9 @@
 
 ## About Me
 
-I build end-to-end AI systems — from LLM-powered pipelines and computer vision models to the full-stack platforms that ship them to users. Currently pursuing my Master's at Clark University while co-founding **InsightScribe** and working as a **Teaching Assistant** for graduate ML coursework.
+I build end-to-end AI systems — from LLM-powered pipelines and computer vision models to the full-stack platforms that ship them to users. Currently pursuing my Master's at Clark University while co-founding **InsightScribe** and working as a **Teaching Assistant** for graduate ML coursework at Clark University.
+
+- Work History:
 
 - 🧠 AI/ML Intern @ **IMAI Innovations** — built churn prediction models (+22% accuracy), reduced training time by 20%, cut manual PeopleOps workload by 40%
 - 🎓 **Teaching Assistant** @ Clark University — mentoring 40+ graduate students in ML, React, Node.js, and system design
