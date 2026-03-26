@@ -91,16 +91,6 @@ An end-to-end SaaS platform that turns audio recordings into structured, searcha
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KakashiShiren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&hide=stars,prs,issues&count_private=true&custom_title=Contributions%20%26%20Repos)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm actively looking for **full-time new grad** and **internship** roles in AI/ML Engineering, Full-Stack, or Data Science. Open to relocate. Open to visa sponsorship.
