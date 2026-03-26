@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Hi,%20I'm%20Tarun%20Reddy%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer%20%7C%20ML%20Teaching%20Assistant&descAlignY=58&descSize=16" width="100%"/>
-
-<br/>
+# Hi, I'm Tarun 👋
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kakashishiren.github.io-6366f1?style=for-the-badge)](https://kakashishiren.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
@@ -96,11 +94,7 @@ Domains I've built curriculum for:
 
 <div align="center">
 
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KakashiShiren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiShiren&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KakashiShiren&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=a855f7&fire=a855f7&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KakashiShiren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&hide=stars,prs,issues&custom_title=Tarun%27s%20GitHub%20Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
 
