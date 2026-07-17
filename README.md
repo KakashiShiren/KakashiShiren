@@ -1,104 +1,202 @@
 # Hi, I'm Tarun Reddy 👋
 
-**MS Computer Science @ Clark University (GPA 3.7) · AI/ML Engineer · Full-Stack Developer**
+**Senior AI/ML & Generative AI Engineer**
+
+Building production-grade Generative AI, machine learning, and cloud-native AI systems across healthcare and financial services.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
-[![Email](https://img.shields.io/badge/Gmail-tarunreddy2811@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
 
-> Open to full-time & internship roles · Willing to relocate · Open to visa sponsorship
+> Open to Senior AI/ML, Generative AI, and AI Platform Engineering opportunities. Open to relocation.
 
 ---
 
 ## About Me
 
-I build end-to-end AI systems — from LLM-powered pipelines and computer vision models to the full-stack platforms that ship them to users. Currently pursuing my Master's at Clark University while co-founding **InsightScribe** and working as a **Teaching Assistant** for graduate ML coursework at Clark University.
+I am a Senior AI/ML and Generative AI Engineer with 4+ years of experience building and deploying intelligent systems across healthcare and financial services.
 
-- Work History:
+My work spans the complete AI lifecycle, including data processing, model development, LLM applications, retrieval-augmented generation, backend API integration, cloud deployment, monitoring, explainability, and automated retraining.
 
-- 🧠 AI/ML Intern @ **IMAI Innovations** — built churn prediction models (+22% accuracy), reduced training time by 20%, cut manual PeopleOps workload by 40%
-- 🎓 **Teaching Assistant** @ Clark University — mentoring 40+ graduate students in ML, React, Node.js, and system design
-- 🚀 **Co-Founder & Engineer** @ InsightScribe — production AI platform using OpenAI Whisper, LangChain, React/Next.js
-- 🏅 Certified: IBM Applied Data Science · Google Cloud Data Analytics · AWS ML + Web Builder
+I focus on building AI systems that are accurate, secure, scalable, observable, and reliable in production.
 
 ---
 
-## 🔨 Projects
+## Professional Experience
 
-### [InsightScribe](https://github.com/KakashiShiren) — AI Audio Intelligence Platform
-> Co-Founder · ML/AI Engineer · Frontend Engineer · *In Development*
+### Johnson & Johnson
+**Senior AI/ML Engineer**<br>
+`Oct 2025 - Present`
 
-An end-to-end SaaS platform that turns audio recordings into structured, searchable insights for product and UX teams.
+- Contributing to production-grade Generative AI and clinical NLP systems.
+- Working on RAG workflows, knowledge retrieval, document summarization, intelligent extraction, backend APIs, deployment, monitoring, and responsible AI.
+- Supporting secure and scalable AI services across enterprise cloud environments.
 
-- Built transcription + NLP pipeline with **OpenAI Whisper** and **HuggingFace**
-- Engineered cross-recording intelligence to surface patterns across multiple sessions using **LangChain**
-- Full-stack: **React/Next.js** frontend + **Node.js/Express** backend + SQL/NoSQL schema design
-- Integrated OpenAI, Whisper, and HuggingFace APIs into a modular, scalable architecture
+Technologies:<br>
+`Python` `OpenAI` `Azure OpenAI` `LangChain` `RAG` `FAISS` `Pinecone` `FastAPI` `PyTorch` `TensorFlow` `Docker` `Kubernetes` `MLflow`
 
----
+### JPMorgan Chase
+**Python / AI-ML Engineer**<br>
+`Dec 2024 - Oct 2025`
 
-### [EnterpriseIQ](https://github.com/KakashiShiren) — NLP-to-SQL Business Intelligence Agent
-> Independent Project
+- Contributed to enterprise AI assistants for research, document analysis, and compliance-oriented workflows.
+- Worked on LLM orchestration, prompt engineering, financial NLP, sentiment analysis, backend APIs, CI/CD, and cloud deployment.
+- Supported scalable production infrastructure using containers and Kubernetes.
 
-- Built a **LangChain** + **LLaMA-3.3-70b (Groq)** agent that translates natural language into accurate SQL across complex relational schemas
-- Handles multi-table JOINs, aggregations, and foreign key traversals autonomously via schema introspection
-- Delivered a non-technical user-facing product with a **Streamlit** interface and suggested query prompts
+Technologies:<br>
+`Python` `FastAPI` `Django` `LangChain` `LangGraph` `CrewAI` `NLP` `AWS` `Docker` `Kubernetes` `Jenkins`
 
----
+### Fortis Healthcare
+**Python Engineer**<br>
+`Jan 2022 - Jul 2024`
 
-### [Real-Time Facial Emotion & Age Detection](https://github.com/KakashiShiren) — Computer Vision System
-> Independent Project
+- Developed Python microservices and healthcare NLP workflows.
+- Worked on text classification, summarization, predictive analytics, cloud deployment, model explainability, and operational automation.
+- Supported scalable backend and machine learning services.
 
-- Built with **OpenCV**, **DeepFace**, and a custom **CNN** for live webcam inference
-- Improved age classification accuracy by **18%** through preprocessing optimizations
-- Engineered low-latency pipeline with minimal frame drop across continuous video streams
-
----
-
-### [JobQuest](https://github.com/KakashiShiren) — Job Application Management Platform
-> Solo Full-Stack Project
-
-- Built with **Node.js**, **JavaScript**, **REST APIs**, and **SQL** from ideation to deployment
-- Integrated **USAJobs API** for real-time listings, reducing manual job tracking effort by **70%**
-- Improved follow-up effectiveness by **30%** through application timeline and success rate modeling
+Technologies:<br>
+`Python` `TensorFlow` `Scikit-learn` `BERT` `Transformers` `AWS` `SageMaker` `Docker` `Kubernetes` `SHAP` `LIME`
 
 ---
 
-## 🛠️ Tech Stack
+## Featured AI Systems
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### Clinical Knowledge & Summarization Platform
+**Enterprise Healthcare AI**
 
-**Full-Stack**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Contributed to Generative AI and retrieval-augmented generation workflows for clinical knowledge retrieval, document summarization, and intelligent information extraction.
 
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Key areas:
+- RAG pipelines
+- LLM integration
+- Vector search
+- FastAPI services
+- Cloud deployment
+- Model monitoring
+- Responsible AI
+
+Technologies:<br>
+`Python` `OpenAI` `Azure OpenAI` `LangChain` `FAISS` `Pinecone` `FastAPI` `Docker` `Kubernetes`
+
+`Enterprise Project`
+
+### Enterprise Financial AI Assistant
+**Enterprise Financial Services AI**
+
+Contributed to an enterprise AI assistant supporting document analysis, research, financial NLP, and compliance-oriented workflows.
+
+Key areas:
+- Prompt engineering
+- LLM orchestration
+- LangGraph workflows
+- Backend APIs
+- Financial sentiment analysis
+- CI/CD
+- Cloud deployment
+
+Technologies:<br>
+`Python` `FastAPI` `Django` `LangChain` `LangGraph` `CrewAI` `AWS` `Docker` `Kubernetes`
+
+`Enterprise Project`
+
+### Healthcare NLP & Automation Platform
+**Enterprise Healthcare ML**
+
+Developed and supported NLP workflows for classification, summarization, predictive analytics, and healthcare process automation.
+
+Key areas:
+- Python microservices
+- NLP pipelines
+- BERT and Transformers
+- Model deployment
+- Explainability
+- Monitoring
+
+Technologies:<br>
+`Python` `TensorFlow` `Scikit-learn` `BERT` `AWS` `SageMaker` `SHAP` `LIME`
+
+`Enterprise Project`
+
+### Production AI Platform Engineering
+**MLOps & Cloud AI**
+
+Designed and supported reusable patterns for deploying, monitoring, and scaling AI services across cloud environments.
+
+Key areas:
+- API-based inference
+- Containerization
+- Kubernetes orchestration
+- CI/CD
+- Model tracking
+- Data pipelines
+- Automated retraining
+
+Technologies:<br>
+`Python` `FastAPI` `Docker` `Kubernetes` `MLflow` `AWS` `Azure` `Google Cloud` `PySpark` `Kafka` `Airflow`
+
+`Engineering Capability`
+
+> Enterprise work is described at a high level to respect employer confidentiality and proprietary information.
 
 ---
 
-## 📬 Let's Connect
+## Selected Personal Projects
 
-I'm actively looking for **full-time new grad** and **internship** roles in AI/ML Engineering, Full-Stack, or Data Science. Open to relocate. Open to visa sponsorship.
+### [Portfolio Website](https://github.com/KakashiShiren/portfolio)
+Personal portfolio built with React, TypeScript, Vite, and Tailwind CSS to present AI engineering work, experience, and resume materials.
 
-<div align="center">
+Links: [Live Site](https://kakashishiren.github.io/portfolio/) | [Repository](https://github.com/KakashiShiren/portfolio)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
+### [NLP-to-SQL Agent](https://github.com/KakashiShiren/EnterpriseIQ)
+Public AI/data project exploring natural-language querying over relational data using LLM orchestration and schema-aware SQL generation.
 
-</div>
+Links: [Repository](https://github.com/KakashiShiren/EnterpriseIQ)
+
+### [Job Application Tracker](https://github.com/KakashiShiren/job-app-tracker-frontend)
+Application tracking project focused on organizing job-search workflows with API-backed data and a practical web interface.
+
+Links: [Repository](https://github.com/KakashiShiren/job-app-tracker-frontend)
+
+---
+
+## Technical Expertise
+
+### Generative AI
+`LLMs` `RAG` `LangChain` `LangGraph` `CrewAI` `Prompt Engineering` `OpenAI` `Azure OpenAI`
+
+### Machine Learning
+`PyTorch` `TensorFlow` `Scikit-learn` `NLP` `Transformers` `BERT` `Predictive Modeling` `Sentiment Analysis`
+
+### Programming & APIs
+`Python` `SQL` `FastAPI` `Django` `Flask` `REST APIs` `Microservices`
+
+### Cloud & MLOps
+`AWS` `Azure` `Google Cloud` `Docker` `Kubernetes` `MLflow` `Jenkins` `CI/CD`
+
+### Data Engineering
+`PySpark` `Kafka` `Airflow` `Pandas` `NumPy` `ETL`
+
+### Databases & Vector Search
+`PostgreSQL` `Oracle` `Hive` `Redis` `FAISS` `Pinecone`
+
+### Additional Technologies
+`React` `Node.js` `JavaScript` `TypeScript` `MongoDB` `Git`
+
+---
+
+## Education
+
+**Master of Science in Computer Science**<br>
+Clark University
+
+---
+
+## Let's Connect
+
+I am open to Senior AI/ML, Generative AI, MLOps, and AI Platform Engineering opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf)
