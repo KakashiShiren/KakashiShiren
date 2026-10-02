@@ -6,7 +6,7 @@ Building production-grade Generative AI, machine learning, and cloud-native AI s
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf?v=2026-10-02)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
 
 > Open to Senior AI/ML, Generative AI, and AI Platform Engineering opportunities. Open to relocation.
@@ -199,4 +199,4 @@ I am open to Senior AI/ML, Generative AI, MLOps, and AI Platform Engineering opp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-reddy-952a77359/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunreddy2811@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kakashishiren.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&logo=readthedocs&logoColor=white)](https://kakashishiren.github.io/portfolio/resume/Tarun.pdf?v=2026-10-02)
