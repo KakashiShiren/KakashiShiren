@@ -1,6 +1,6 @@
 # Hi, I'm Tarun Reddy 👋
 
-**Senior AI/ML & Generative AI Engineer**
+**AI/ML & Generative AI Engineer**
 
 Building production-grade Generative AI, machine learning, and cloud-native AI systems across healthcare and financial services.
 
