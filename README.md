@@ -15,7 +15,7 @@ Building production-grade Generative AI, machine learning, and cloud-native AI s
 
 ## About Me
 
-I am a Senior AI/ML and Generative AI Engineer with 4+ years of experience building and deploying intelligent systems across healthcare and financial services.
+I am an AI/ML and Generative AI Engineer with 4+ years of experience building and deploying intelligent systems across healthcare and financial services.
 
 My work spans the complete AI lifecycle, including data processing, model development, LLM applications, retrieval-augmented generation, backend API integration, cloud deployment, monitoring, explainability, and automated retraining.
 
