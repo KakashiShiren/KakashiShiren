@@ -28,6 +28,7 @@ I focus on building AI systems that are accurate, secure, scalable, observable, 
 ### Johnson & Johnson
 **Senior AI/ML Engineer**<br>
 `Oct 2025 - Present`
+`New Brunswick, NJ`
 
 - Contributing to production-grade Generative AI and clinical NLP systems.
 - Working on RAG workflows, knowledge retrieval, document summarization, intelligent extraction, backend APIs, deployment, monitoring, and responsible AI.
@@ -39,6 +40,7 @@ Technologies:<br>
 ### JPMorgan Chase
 **Python / AI-ML Engineer**<br>
 `Dec 2024 - Oct 2025`
+`Boston, MA`
 
 - Contributed to enterprise AI assistants for research, document analysis, and compliance-oriented workflows.
 - Worked on LLM orchestration, prompt engineering, financial NLP, sentiment analysis, backend APIs, CI/CD, and cloud deployment.
@@ -50,6 +52,7 @@ Technologies:<br>
 ### Fortis Healthcare
 **Python Engineer**<br>
 `Jan 2022 - Jul 2024`
+`Gurugram, Haryana`
 
 - Developed Python microservices and healthcare NLP workflows.
 - Worked on text classification, summarization, predictive analytics, cloud deployment, model explainability, and operational automation.
